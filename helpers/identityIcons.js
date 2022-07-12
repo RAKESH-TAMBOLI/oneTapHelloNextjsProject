@@ -3,15 +3,15 @@ const identityIcons = {
     instagram: '/image/identities/instagram.png',
     clubhouse: '/image/identities/clubhouse.png',
     venmo: '/image/identities/venmo.png',
-    cashapp: '/image/identities/cashApp.png',
+    cashapp: '/image/identities/cashapp.png',
     behance: '/image/identities/behance.png',
     yelp: '/image/identities/yelp.png',
     resume: '/image/identities/resume.png',
     github: '/image/identities/github.png',
     reddit: '/image/identities/reddit.png',
-    fbmessenger: '/image/identities/fbMessenger.png',
+    fbmessenger: '/image/identities/fbmessenger.png',
     slack: '/image/identities/slack.png',
-    etsy: '/image/identities/etsy.png',
+    etsy: '/image/identities/Etsy.png',
     zelle: '/image/identities/zelle.png',
     opensea: '/image/identities/opensea.png',
     linktree: '/image/identities/linktree.png',
@@ -31,6 +31,8 @@ const identityIcons = {
     paytm: '/image/identities/paytm.png',
     phonepe: '/image/identities/phonepe.png',
     freelancer: '/image/identities/freelancer.png',
-    calendly: '/image/identities/calendly.png'
+    calendly: '/image/identities/calendlerly.png',
+    youtubePlaylist: '/image/identities/youtubePlayList.png',
+    linkedinCompany: '/image/identities/linkedinCompany.png'
 }
 export default identityIcons
